@@ -1,4 +1,4 @@
-name: Test Package code coverage
+name: Test Package code 
 
 on:
   push:
